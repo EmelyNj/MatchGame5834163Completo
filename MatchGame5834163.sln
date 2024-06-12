@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchGame5834163", "MatchGame5834163\MatchGame5834163.csproj", "{B2F99FF1-9A7E-4EE4-A43D-093AD0F6381D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F99FF1-9A7E-4EE4-A43D-093AD0F6381D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F99FF1-9A7E-4EE4-A43D-093AD0F6381D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F99FF1-9A7E-4EE4-A43D-093AD0F6381D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B2F99FF1-9A7E-4EE4-A43D-093AD0F6381D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F99FF1-9A7E-4EE4-A43D-093AD0F6381D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F99FF1-9A7E-4EE4-A43D-093AD0F6381D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DE72BB-DD6D-428B-9331-E16C15E2D6C3}
+	EndGlobalSection
+EndGlobal
